@@ -1,0 +1,7 @@
+Project: AI Loan Assessment Assistant
+
+Problem Statement:
+Loan applications require extensive manual review.
+
+Solution Statement:
+Extract application information and support risk assessment.
